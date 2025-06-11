@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-<!--
+We are a continuation of the community of **alist**
 
-**Here are some ideas to get you started:**
+### Why are we doing this?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Due to the irresponsible selling of alist by author [@xhofe](https://github.com/xhofe) to a company with a very shitty reputation, leading to the fragmentation of the community, the reason we created this is because of this, we promise **NOT TO SELL THIS PROJECT** **he belongs to the community***
